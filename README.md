@@ -1,3 +1,26 @@
+## slider_publisher (jazzy) - 2.4.1-1
+
+The packages in the `slider_publisher` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy slider_publisher --override-release-repository-push-url git@github.com:revyos-ros/slider_publisher-release.git` on `Mon, 23 Jun 2025 05:51:11 -0000`
+
+The `slider_publisher` package was released.
+
+Version of package(s) in repository `slider_publisher`:
+
+- upstream repository: https://github.com/oKermorgant/slider_publisher.git
+- release repository: https://github.com/revyos-ros/slider_publisher-release.git
+- rosdistro version: `2.4.1-1`
+- old version: `2.3.1-3`
+- new version: `2.4.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## slider_publisher (humble) - 2.4.0-1
 
 The packages in the `slider_publisher` repository were released into the `humble` distro by running `/usr/bin/bloom-release --ros-distro humble --track humble slider_publisher` on `Fri, 17 May 2024 12:24:18 -0000`
